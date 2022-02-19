@@ -1,4 +1,4 @@
 # Basic-Banking-System
 
-URVI MUDLIAR
+Komal Tarate
 The Spark Foundation (GRIP)
